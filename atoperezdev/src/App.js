@@ -1,8 +1,7 @@
 import React from 'react';
-import Header from './components/Header';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import './App.css';
+import Header from './Header';
+import Projects from './Projects';
+import Contact from './Contact';
 
 function App() {
   return (
